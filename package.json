@@ -1,6 +1,6 @@
 {
   "name": "@quantovainc/qvital",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quantum secure civil registry records for registrars. Proves the birth, name change, marriage, correction and death entries of a civil record, with ML-DSA-65 under FIPS 204 and Quantova time proofs. No personal data ever leaves the party that holds it.",
   "main": "index.js",
   "types": "index.d.ts",
